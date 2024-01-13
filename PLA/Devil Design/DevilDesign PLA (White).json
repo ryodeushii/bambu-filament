@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "DevilDesign PLA (White)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "DevilDesign PLA (White)",
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.8918"
+    ],
+    "filament_settings_id": [
+        "DevilDesign PLA (White) FRC"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "DevilDesign PLA (White) FRC",
+    "version": "1.8.0.13"
+}
