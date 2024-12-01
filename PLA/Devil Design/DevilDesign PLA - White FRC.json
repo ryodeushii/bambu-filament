@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.9"
+    ],
+    "filament_settings_id": [
+        "DevilDesign PLA - White FRC"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "DevilDesign PLA - White FRC",
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "1.8.0.13"
+}

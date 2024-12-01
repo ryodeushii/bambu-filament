@@ -1,0 +1,24 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "14.5"
+    ],
+    "filament_settings_id": [
+        "Rosa3D PLA Silk - Bronze"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Silk @BBL X1C",
+    "name": "Rosa3D PLA Silk - Bronze",
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "185"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,12 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Matte - Black"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Matte @BBL X1C",
+    "name": "Bambu PLA Matte - Black",
+    "version": "1.8.0.13"
+}

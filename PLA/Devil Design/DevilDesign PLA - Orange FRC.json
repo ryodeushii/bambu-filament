@@ -1,0 +1,15 @@
+{
+    "default_filament_colour": [
+        "#FF8040"
+    ],
+    "filament_flow_ratio": [
+        "0.921131"
+    ],
+    "filament_settings_id": [
+        "DevilDesign PLA - Orange FRC"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "DevilDesign PLA - Orange FRC",
+    "version": "1.8.0.13"
+}

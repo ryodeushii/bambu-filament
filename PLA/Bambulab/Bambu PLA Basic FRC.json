@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "1.01871"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic FRC"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "Bambu PLA Basic FRC",
+    "version": "1.8.0.13"
+}

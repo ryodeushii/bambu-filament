@@ -1,0 +1,45 @@
+{
+    "default_filament_colour": [
+        "#0080C0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "fan_max_speed": [
+        "90"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "0.7866"
+    ],
+    "filament_settings_id": [
+        "Bambu PETG Basic - Blue"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "name": "Bambu PETG Basic - Blue",
+    "pressure_advance": [
+        "0.046"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "1.8.0.13"
+}

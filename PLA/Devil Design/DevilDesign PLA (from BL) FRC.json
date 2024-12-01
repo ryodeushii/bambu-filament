@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "0.79135"
+    ],
+    "filament_settings_id": [
+        "DevilDesign PLA (from BL) FRC"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "DevilDesign PLA (from BL) FRC",
+    "version": "1.8.0.13"
+}
